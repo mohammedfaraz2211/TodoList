@@ -1,0 +1,11 @@
+.main-todo{
+    border: 1px solid black;
+    height: 500px auto;
+    width: 25%;
+    margin: auto;
+    background-color: darkorange;
+}
+.todo-li{
+    list-style: none;
+    padding: 8px;
+}
