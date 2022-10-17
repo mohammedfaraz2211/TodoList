@@ -16,6 +16,7 @@ const TodoList = () => {
     phone: "",
     location: "",
   })
+//   are bhai git hub
 
   const handelDetails = (e) => {
     setUserData({ ...userData, [e.target.name]: e.target.value })
@@ -45,6 +46,7 @@ const TodoList = () => {
       location: "",
     })
   }
+//   arrrr chalo
 
   return (
     <>
